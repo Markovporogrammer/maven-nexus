@@ -10,11 +10,5 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>tuling-test</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>mzp</groupId>
-            <artifactId>mazpeng</artifactId>
-        </dependency>
-    </dependencies>
 
 </project>
