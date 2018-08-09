@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tuling-client/tuling-client.iml" filepath="$PROJECT_DIR$/tuling-client/tuling-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-maven.iml" filepath="$PROJECT_DIR$/tuling-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-server/tuling-server.iml" filepath="$PROJECT_DIR$/tuling-server/tuling-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-test/tuling-test.iml" filepath="$PROJECT_DIR$/tuling-test/tuling-test.iml" />
+    </modules>
+  </component>
+</project>
